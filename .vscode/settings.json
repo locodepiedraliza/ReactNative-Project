@@ -3,7 +3,9 @@
         "backcountry",
         "datetimepicker",
         "Nucamp",
+        "persistor",
         "reduxjs",
-        "tacklebox"
+        "tacklebox",
+        "userdata"
     ]
 }
